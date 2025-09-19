@@ -113,5 +113,3 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 Arthur Jacinto
 
 ---
-
-⭐ Se este projeto te ajudou, não esqueça de dar uma estrela!
