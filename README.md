@@ -15,7 +15,7 @@ O sistema foi projetado como um Progressive Web App (PWA) acessível via QR Code
 ## Resumo Estruturado do TCC
 Este Trabalho de Conclusão de Curso aborda os impactos da transformação digital no setor de alimentação e propõe o desenvolvimento de um Progressive Web App (PWA) como alternativa tecnológica de viabilidade financeira para microempreendedores. A pesquisa engloba a engenharia de requisitos funcionais e não funcionais, design centrado no conceito *Mobile First* e a implementação de uma arquitetura full-stack. Os resultados práticos validam a automação do fluxo de atendimento e a integração do sistema de pagamentos instantâneos (PIX), mitigando gargalos operacionais (filas físicas) e restabelecendo a competitividade do pequeno comerciante por meio da isenção total de comissões por venda.
 
-## Referências Bibliográficas (Mapeadas via Mendeley / ABNT)
+## Referências Bibliográficas
 O gerenciamento de todas as fontes científicas e citações que fundamentam a revisão de literatura deste trabalho foi executado através do **Mendeley Reference Manager**, atendendo rigorosamente aos padrões normativos da ABNT:
 
 * **HUME, Dean Alan.** *Progressive Web Apps*. New York: Manning Publications, 2017. 
